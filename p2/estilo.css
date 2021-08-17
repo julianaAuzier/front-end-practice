@@ -1,0 +1,100 @@
+*{
+	margin:0;
+	padding:0;
+}
+
+body{
+	background:#e6e6e6;
+	font-family: "Trebuchet MS", Helvetica, sas-serif;
+	font-size:1em;
+}
+
+h1{
+	font-size:2.5em;
+	color:#4e4e4e;
+}
+
+h2{
+	margin-top:5px;
+	color:#f7b600;
+}
+
+h3{
+	color:#4e4e4e;
+	background-color:#f0f0f0;
+	padding:3px 6px 3px 3px;
+}
+
+#cabecalho{
+	background-color:#f7b600;
+	width:100%;
+	height:200px;
+	text-align:center;
+}
+
+#logo{
+	padding:60px 10px 30px 10px;
+}
+
+#conteudo{
+	margin:10px 15%;
+}
+
+#lateral{
+	float:right;
+	width:25%;
+}
+#rodape{
+	background-color:#000;
+	text-align:center;
+	clear:both;
+	margin-top:10px;
+	height:20px;
+	color:#fff;
+	padding:50px;
+}
+
+.postagens{
+	float:left;
+	background-color:#fff;
+	padding:10px;
+	width:72%;
+}
+
+.menu{
+	padding:8px 12px;
+	text-decoration:none;
+	color:#fff;
+}
+.menu:hover{
+	color:#f7b600;
+	background-color:#FFFF;
+}
+
+.recentes{
+	background-color:#fff;
+	padding:5px;
+	margin-bottom:10px;
+}
+.categorias{
+	background-color:#fff;
+	padding:5px;
+	
+}
+.link{
+	color:#f7b600;
+	text-decoration:none;
+}
+.link:hover{
+	text-decoration:underline
+}
+
+.imagem{
+	width:100%;
+	margin:15px 0px;
+}
+
+.data{
+	font-size:0.8em;
+	color:#ccc;
+}
